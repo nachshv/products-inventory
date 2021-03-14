@@ -45,6 +45,7 @@ modules:
     - npm install
     - npm run build:cf
     supported-platforms: []
+#testtt
 resources:
 - name: products-inventory-uaa
   type: org.cloudfoundry.managed-service
